@@ -1,6 +1,6 @@
 ### Test Services from Console
 
-This is one trick that is pretty popular among Angular developers.
+This is a pretty popular trick among Angular developers.
 
 From console screen, you can get an instance of the service you want to test.
 
