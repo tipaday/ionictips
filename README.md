@@ -14,6 +14,7 @@ Get one Ionic daily tip everyday. Juice up your Ionic mobile app development.
 - 08 - [ionic run is a shorthand command](tips/08-ionic-run-is-a-shorthand-command.md)
 - 09 - [Serve apps with multiple screen sizes](tips/09-server-apps-with-multiple-screen-sizes.md)
 - 10 - [Customize the status bar](tips/10-customize-the-status-bar.md)
+- 11 - [Show the ellipsis text on item list](tips/11-show-the-ellipsis-text-on-item-list.md)
 
 ## Contribution Guide
 
