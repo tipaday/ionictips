@@ -2,6 +2,8 @@
 
 Get one Ionic daily tip everyday. Juice up your Ionic mobile app development.
 
+[![Ionic Tips](https://img.shields.io/badge/tips-ionic-blue.svg?style=flat-square)](https://github.com/tipaday/ionictips)
+
 ## Tips List
 
 - 01 - [Control the infinite scroll properly](tips/01-control-an-infinite-scroll-properly.md)
