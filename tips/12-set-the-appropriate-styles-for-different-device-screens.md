@@ -20,5 +20,7 @@ To handle this, we need to use the `device`-related properties, eg. `min-device-
 }
 ```
 
+Refer to [media queries list for common devices](https://github.com/petehouston/physical-dimension-breakpoints) for breakpoint settings.
+
 Have fun :)
 
