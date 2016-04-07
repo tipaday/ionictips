@@ -28,6 +28,7 @@ Get one Ionic daily tip everyday. Juice up your Ionic mobile app development.
 - 20 - [Remove view from history](tips/20-remove-view-from-history.md)
 - 21 - [Safe DOM manipulation](tips/21-safe-dom-manipulation.md)
 - 22 - [Monitor device Internet connectivity](tips/22-monitor-device-internet-connectivity.md)
+- 23 - [Disable side menu swipe for a specific view](tips/23-disable-side-menu-swipe-for-a-specific-view.md)
 
 ## Contribution Guide
 
