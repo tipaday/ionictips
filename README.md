@@ -20,6 +20,7 @@ Get one Ionic daily tip everyday. Juice up your Ionic mobile app development.
 - 12 - [Set the appropriate styles for different device screens](tips/12-set-the-appropriate-styles-for-different-device-screens.md)
 - 13 - [Use Ionic CLI to manage platforms and plugins](tips/13-use-ionic-cli-to-manage-platforms-and-plugins.md)
 - 14 - [Enable Native Scrolling for Android](tips/14-enable-native-scrolling-for-android.md)
+- 15 - [Remove unnecessary AngularJS scope references to the DOM](tips/15-remove-unnecessary-angularjs-scope-references-to-the-dom.md)
 
 ## Contribution Guide
 
