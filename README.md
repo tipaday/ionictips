@@ -19,6 +19,7 @@ Get one Ionic daily tip everyday. Juice up your Ionic mobile app development.
 - 11 - [Show the ellipsis text on item list](tips/11-show-the-ellipsis-text-on-item-list.md)
 - 12 - [Set the appropriate styles for different device screens](tips/12-set-the-appropriate-styles-for-different-device-screens.md)
 - 13 - [Use Ionic CLI to manage platforms and plugins](tips/13-use-ionic-cli-to-manage-platforms-and-plugins.md)
+- 14 - [Enable Native Scrolling for Android](tips/14-enable-native-scrolling-for-android.md)
 
 ## Contribution Guide
 
