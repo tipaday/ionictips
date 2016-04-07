@@ -26,6 +26,7 @@ Get one Ionic daily tip everyday. Juice up your Ionic mobile app development.
 - 18 - [Manage Ionic view lifecycle](tips/18-manage-ionic-view-lifecycle.md)
 - 19 - [Change Ionic serve address](tips/19-change-ionic-serve-address.md)
 - 20 - [Remove view from history](tips/20-remove-view-from-history.md)
+- 21 - [Safe DOM manipulation](tips/21-safe-dom-manipulation.md)
 
 ## Contribution Guide
 
