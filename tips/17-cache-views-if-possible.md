@@ -15,6 +15,14 @@ To config number of views to be cached,
 $ionicConfigProvider.views.maxCache(10);
 ```
 
+or can be set per platform,
+
+```
+$ionicConfigProvider.platform.android.views.maxCache(15);
+$ionicConfigProvider.platform.ios.views.maxCache(15);
+```
+
+
 To disable cache for a specific view,
 
 ```
