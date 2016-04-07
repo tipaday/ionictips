@@ -35,7 +35,8 @@ Feel free to fork and [make a pull request](https://github.com/tipaday/ionictips
 
 ## Credits
 
-I'd like to give thanks to the following developers for their awesome sharing about Angular and Ionic development tips and tricks.
+I'd like to give thanks to the following projects, developers for their awesome sharing about Angular and Ionic development tips and tricks.
 
 * Ionic Team ([blog](blog.ionic.io), [official documentation](http://ionicframework.com/docs))
+* [ngCordova](http://ngcordova.com/docs/plugins/network/)
 * [Julien Renaux](http://julienrenaux.fr/2015/08/24/ultimate-angularjs-and-ionic-performance-cheat-sheet/)
