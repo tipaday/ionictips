@@ -25,6 +25,7 @@ Get one Ionic daily tip everyday. Juice up your Ionic mobile app development.
 - 17 - [Cache views if possible](tips/17-cache-views-if-possible.md)
 - 18 - [Manage Ionic view lifecycle](tips/18-manage-ionic-view-lifecycle.md)
 - 19 - [Change Ionic serve address](tips/19-change-ionic-serve-address.md)
+- 20 - [Remove view from history](tips/20-remove-view-from-history.md)
 
 ## Contribution Guide
 
