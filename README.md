@@ -28,3 +28,10 @@ Get one Ionic daily tip everyday. Juice up your Ionic mobile app development.
 ## Contribution Guide
 
 Feel free to fork and [make a pull request](https://github.com/tipaday/ionictips/pulls) for tips you'd like to share
+
+## Credits
+
+I'd like to give thanks to the following developers for their awesome sharing about Angular and Ionic development tips and tricks.
+
+* Ionic Team ([blog](blog.ionic.io), [official documentation](http://ionicframework.com/docs))
+* [Julien Renaux](http://julienrenaux.fr/2015/08/24/ultimate-angularjs-and-ionic-performance-cheat-sheet/)
