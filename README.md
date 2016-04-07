@@ -21,6 +21,7 @@ Get one Ionic daily tip everyday. Juice up your Ionic mobile app development.
 - 13 - [Use Ionic CLI to manage platforms and plugins](tips/13-use-ionic-cli-to-manage-platforms-and-plugins.md)
 - 14 - [Enable Native Scrolling for Android](tips/14-enable-native-scrolling-for-android.md)
 - 15 - [Remove unnecessary AngularJS scope references to the DOM](tips/15-remove-unnecessary-angularjs-scope-references-to-the-dom.md)
+- 16 - [Improve performance with one-time binding](tips/16-improve-performance-with-one-time-binding.md)
 
 ## Contribution Guide
 
