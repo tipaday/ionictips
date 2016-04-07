@@ -23,6 +23,7 @@ Get one Ionic daily tip everyday. Juice up your Ionic mobile app development.
 - 15 - [Remove unnecessary AngularJS scope references to the DOM](tips/15-remove-unnecessary-angularjs-scope-references-to-the-dom.md)
 - 16 - [Improve performance with one-time binding](tips/16-improve-performance-with-one-time-binding.md)
 - 17 - [Cache views if possible](tips/17-cache-views-if-possible.md)
+- 18 - [Manage Ionic view lifecycle](tips/18-manage-ionic-view-lifecycle.md)
 
 ## Contribution Guide
 
